@@ -27,7 +27,7 @@ Head over to this [link](https://git-scm.com/downloads) to open up the download 
 
   Simply put, it's a treasure chest for all of your treasures (repositories, or 'repos' for short). Just as there are many different treasure chests out there, there are different web services that function similarly to GitHub, though this is the most popular service.
   
-Now, I'm assuming you've downloaded Git. Great! Let's move onto Github. Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fpricing&source=header) to be navigated to GitHub's signup page. Use your UCID and school email to get a 'PRO' subscription for free. So far, I'm not exactly sure what it does besides provide a shiny purple label on your profile but hey, it's bound to be better. 
+Now, I'm assuming you've installed Git. Great! Let's move onto Github. Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fpricing&source=header) to be navigated to GitHub's signup page. Use your UCID and school email to get a 'PRO' subscription for free. So far, I'm not exactly sure what it does besides provide a shiny purple label on your profile but hey, it's bound to be better. 
 
 #### _Connecting Git + GitHub with Webstorm_
 
@@ -48,6 +48,26 @@ Oh, you're done? That was fast. Back in _my_ day,...
 * Repository: Virtual storage for code
 * GitHub: A web service that allows for cross-platform collaboration due to hosting repositories on its site
 
+## References - Part 3
+#### Links for installation:
+[Webstorm](https://www.jetbrains.com/shop/eform/students)
+
+#### Learning about software
+[What is Git?](https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it)
+
+#### References for learning GitHub's Markdown:
+[Hyperlinks](https://stackoverflow.com/questions/25465182/hyperlinks-of-readme-md-not-working-in-gitlab#:~:text=In%20Github%20the%20syntax%20to%20add%20hyperlink%20is,following%20-%20%5BText%5D%20%28full%20url%20of%20the%20section%29)
+[Tiny text](https://gist.github.com/DavidWells/996ff97b915efaf026f72368c3e49185)
+
+#### Difference between Git and Github
+[Stackoverflow](https://stackoverflow.com/questions/13321556/difference-between-git-and-github), 
+[GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-git-and-github/#:~:text=Below%20is%20a%20table%20of%20differences%20between%20Git,maintained%20by%20Microsoft.%20%208%20more%20rows%20)
+
+#### Installation Instructions
+[Intro to Github - NJIT](https://njit.instructure.com/courses/25694/files/3891026?module_item_id=881262), 
+[Additional Instrutions - NJIT](https://njit.instructure.com/courses/25694/files/3891039?module_item_id=881263)
+
+
 --
 Document your knowledge of Git, WebStorm, and GitHub by creating a step by step tutorial in your readme file. 
 You need to make a tutorial that you could give to someone else that describes the process of how to use Git+Github. 
@@ -55,8 +75,6 @@ You outside resources as well as my PowerPoint presentations. Cite all reference
 
 You must include definitions for the following terms in a separate list aside from your directions
 Add a step by step set of directions. Include URLs of any downloaded software. 
-
- 
 
 Part 2: Glossary to include these terms in a bulleted list.
 
@@ -71,12 +89,3 @@ Merge Conflict
 Push
 Pull
 Remote
-
-Your commits should have clear messages like:
-
-
-Task: Create Repository
-
-Feature:  added workflow for using github
-
-Fix:  changed readme.md for definition of terms
