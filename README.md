@@ -20,12 +20,26 @@ Head over to this [link](https://git-scm.com/downloads) to open up the download 
   **Git** is software that helps manage version control, or track changes. It's local, which means it only runs on your system, and tracks changes in any set of files. 
 
   In Git, you can make a **repository**, which allows you to save versions of your code. It acts as virtual storage for your code - repositories can log history, making it very good for a detailed changelog. (You can make repositories in GitHub, too.)
+  
+#### _"Then, what does GitHub do?"_
+
+Simply put, GitHub is a treasure chest for all of your treasures (repositories, or 'repos' for short). Just as there are many different treasure chests out there, there are different web services that function similarly to GitHub, though this is the most popular service.
+
+GitHub has many functions on its service. For one, **branching** allows you to safely develop or test features without risking the functionality of the main application. The _main branch_, formerly known as the main branch, is the most stable version of whatever you're developing.
+
+**Cloning** allows you to duplicate repositories from any branch. It's like having the recipe for a pie, and duplicating that same recipe so you can experiment on it duirng your own time. Note that cloning is just a copy and paste of the history of it too, whereas branching creates new functionalities or updates from a specific, isolated point in time.
+
+Cloning helps when you're the only person making changes in the repository. Branching is better with multiple people. Why? If multiple people were editing the same content and then tried to push their changes, _only the first push would be accepted_. The other edits wouldn't be accepted, and this is called a **merge conflict**. 
+
+Lets say a developer is satisfied with a feature on their isolated branch. They want to bring it to the main branch, or **merge** it into the main branch. This is done with a **pull* request - however, if a repository requires reviews, a request may need a specific number of approvals. 
+
+A different developer is working on another branch, but they want to retrieve some code without changing their current working copy of their repository. They'd use the **'fetch'** command, which downloads the contents of a remote repository. The difference between 'fetch' and 'pull' is that 'fetch' brings local copies and metadata, where 'pull' directly changes your own copy of the repository. 
+
+Finally, lets say both developers want to show each other their changes. Here's where **'remote'** comes in! This isn't the same as a local repository - instead of providing a display of the project's current state, it allows you to push your changes or pull the changes of others. For context, this is what the 'fetch' command would bring. It's basically a common repository, or in even simpler terms, the place where your code is stored.
 
 #### _"So what's the difference between Git and GitHub?"_
 
   Great question! **GitHub** is as the name suggests, a "hub" (community) for many little "git(s)"<sup><sub>(not sure if that's the correct term.)</sub></sup>. It's hosted on the web, which makes it a service, not software. It helps programmers collaborate despite distance, because it's all based in the cloud.
-
-  Simply put, GitHub is a treasure chest for all of your treasures (repositories, or 'repos' for short). Just as there are many different treasure chests out there, there are different web services that function similarly to GitHub, though this is the most popular service.
   
 Now with all the time I've spent rambling, I'm assuming you've installed Git. Great! Let's move onto Github. Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fpricing&source=header) to be navigated to GitHub's signup page. Use your UCID and school email to get a 'PRO' subscription for free. So far, I'm not exactly sure what it does besides provide a shiny purple label on your profile but hey, it's bound to be better. 
 
@@ -59,6 +73,13 @@ Your file is now on GitHub! Congratulations :)
 
 * Git: Version control software
 * Repository: Virtual storage for code
+* Branching: Developing or testing features in an isolated area that doesn't affect the main program
+* Cloning: Duplicating repositories from any branch, has the metadata of the repository
+* Merge Conflict: A disagreement in edits towards a branch, where multiple developers edit the same content
+* Merge: Combines sequences of commits into one unified one (frequently used for two branches)
+* Pull: A request in which you inform others of the changes you've made; goal is to merge but may require approval
+* Fetch: Downloads the contents of a remote repository
+* Remote: The place where your code is stored - can push your changes or pull the changes of others before any of the other requests happen
 * GitHub: A web service that allows for cross-platform collaboration due to hosting repositories on its site
 * Commit: An edit to a repository
 * Push: The action of sending your revised files from your local system to a code hosting, cloud-based version control platform like GitHub.
