@@ -55,7 +55,7 @@ Oh, you're done? That was fast. Back in _my_ day,...
 
 (cough) Ahem. Sorry, indulged in my old spirit there. Open up Webstorm, and pull up Settings (the shortcut is Ctrl+Alt+S). From the left column, select Version Control, then Git. 
 
-Choose the location of your Git file (this path should have 'bin' located somewhere on the path, most likely 'C:\Program Files\Git\bin\git.exe'). Sometimes, Webstorm is smart and can automatically detect Github because it always has its GitHussy out, in which case the path might be C:\Program Files\Git\cmd\git.exe.
+Choose the location of your Git file (this path should have 'bin' located somewhere on the path, most likely 'C:\Program Files\Git\bin\git.exe'). Sometimes, Webstorm is smart and can automatically detect Git because it always has its Gitussy out, in which case the path might be C:\Program Files\Git\cmd\git.exe.
 
 Click 'Test' to make sure that Webstorm is connected to Git. You should hopefully (fingers crossed) get the message that "Git Executed Successfully". Woo! Awesome job. Click OK to exit.
 
