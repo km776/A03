@@ -89,28 +89,36 @@ Your file is now on GitHub! Congratulations :)
 ## References - Part 3
 #### Links for installation:
 [Webstorm](https://www.jetbrains.com/shop/eform/students), [Git](https://git-scm.com/downloads)
-
+***
 #### Learning about software
 [What is Git?](https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it)
+***
+#### Learning GitHub's markdown:
+[Hyperlinks](https://stackoverflow.com/questions/25465182/hyperlinks-of-readme-md-not-working-in-gitlab#:~:text=In%20Github%20the%20syntax%20to%20add%20hyperlink%20is,following%20-%20%5BText%5D%20%28full%20url%20of%20the%20section%29), [Tiny text](https://gist.github.com/DavidWells/996ff97b915efaf026f72368c3e49185)
 
-#### References for learning GitHub's markdown:
-[Hyperlinks](https://stackoverflow.com/questions/25465182/hyperlinks-of-readme-md-not-working-in-gitlab#:~:text=In%20Github%20the%20syntax%20to%20add%20hyperlink%20is,following%20-%20%5BText%5D%20%28full%20url%20of%20the%20section%29)
-[Tiny text](https://gist.github.com/DavidWells/996ff97b915efaf026f72368c3e49185)
-
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
+***
 #### Differences between...
 [Git and Github - StackOverflow](https://stackoverflow.com/questions/13321556/difference-between-git-and-github), 
 [Git and Github - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-git-and-github/#:~:text=Below%20is%20a%20table%20of%20differences%20between%20Git,maintained%20by%20Microsoft.%20%208%20more%20rows%20)
-[Cloning and Branching - Github Community](https://github.com/orgs/community/discussions/22286)
 
+[Cloning and Branching - Github Community](https://github.com/orgs/community/discussions/22286)
+***
 #### Installation instructions
 [Intro to GitHub - NJIT](https://njit.instructure.com/courses/25694/files/3891026?module_item_id=881262), 
 [Additional Instrutions - NJIT](https://njit.instructure.com/courses/25694/files/3891039?module_item_id=881263)
-
+***
 #### Understanding Github's terms
 [Commit - search](https://www.bing.com/search?q=what+does+commit+mean+github&cvid=b8d69e26a3fb43e09090173471d1b773&aqs=edge..69i57j0l8.3271j0j1&pglt=299&FORM=ANNTA1&PC=HCTS)
+
 [Branches - search](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches), [Git Branch - W3Schools](https://www.w3schools.com/git/git_branch.asp)
+
 [Cloning - GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
 [Pull Requests - GitHub Docs](https://docs.github.com/en/pull-requests), [Defining the mergeability of pull requests - GitHub Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests), [Merging a pull request - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request#about-pull-request-merges)
+
 [Git Merge - Atlassian Bitbucket](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+
 [Fetch - CareerKarma](https://careerkarma.com/blog/git-fetch/#:~:text=The%20git%20fetch%20command%20is%20used%20to%20download,changes%20your%20local%20working%20copy%20of%20a%20repository.)
+
 [About remote repositories - GitHub Docs](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories), ["What is 'git remote'..."](https://stackoverflow.com/questions/5617211/what-is-git-remote-add-and-git-push-origin-master/5617350#5617350)
