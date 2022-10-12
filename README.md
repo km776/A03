@@ -88,7 +88,7 @@ Your file is now on GitHub! Congratulations :)
 
 ## References - Part 3
 #### Links for installation:
-[Webstorm](https://www.jetbrains.com/shop/eform/students)
+[Webstorm](https://www.jetbrains.com/shop/eform/students), [Git](https://git-scm.com/downloads)
 
 #### Learning about software
 [What is Git?](https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it)
